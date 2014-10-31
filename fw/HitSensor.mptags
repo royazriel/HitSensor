@@ -1,0 +1,53 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BAUD::9600	C:\project\2014\Rogat\HitSensor\fw\usart.h	4;"	d	line:4
+DEFAULT_THRESHOLD::50	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	14;"	d	line:14	file:
+DELAY_BETWEEN_SAMPLES_US::30	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	15;"	d	line:15	file:
+DIVIDER::((int)(FOSC/(16UL*BAUD)-1))	C:\project\2014\Rogat\HitSensor\fw\usart.h	9;"	d	line:9
+FOSC::8000000L	C:\project\2014\Rogat\HitSensor\fw\usart.h	5;"	d	line:5
+HIGH_SPEED::1	C:\project\2014\Rogat\HitSensor\fw\usart.h	12;"	d	line:12
+IN_BUF_LEN::20	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	12;"	d	line:12	file:
+LogMode	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	21;"	t	line:21	file:
+NINE::0	C:\project\2014\Rogat\HitSensor\fw\usart.h	7;"	d	line:7
+NINE_BITS::0	C:\project\2014\Rogat\HitSensor\fw\usart.h	17;"	d	line:17
+NINE_BITS::0x40	C:\project\2014\Rogat\HitSensor\fw\usart.h	15;"	d	line:15
+OUT_BUF_LEN::90	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	13;"	d	line:13	file:
+RX_PIN::TRISB2	C:\project\2014\Rogat\HitSensor\fw\usart.h	27;"	d	line:27
+RX_PIN::TRISC7	C:\project\2014\Rogat\HitSensor\fw\usart.h	30;"	d	line:30
+SPEED::0	C:\project\2014\Rogat\HitSensor\fw\usart.h	23;"	d	line:23
+SPEED::0x4	C:\project\2014\Rogat\HitSensor\fw\usart.h	21;"	d	line:21
+TX_PIN::TRISB5	C:\project\2014\Rogat\HitSensor\fw\usart.h	28;"	d	line:28
+TX_PIN::TRISC6	C:\project\2014\Rogat\HitSensor\fw\usart.h	31;"	d	line:31
+_SERIAL_H_	C:\project\2014\Rogat\HitSensor\fw\usart.h	2;"	d	line:2
+_XTAL_FREQ::8000000	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	11;"	d	line:11	file:
+__LogMode	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	17;"	g	line:17	file:
+buff	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	23;"	v	line:23
+buffEmpty	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	76;"	l	line:76
+c	C:\project\2014\Rogat\HitSensor\fw\usart.c	26;"	l	line:26
+cnt	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	26;"	v	line:26
+delayBetweenSamples	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	29;"	v	line:29
+etFreeRunning	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	19;"	e	line:19	enum:__LogMode	file:
+etOnTreshhold	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	20;"	e	line:20	enum:__LogMode	file:
+getch	C:\project\2014\Rogat\HitSensor\fw\usart.c	16;"	f	line:16
+getch	C:\project\2014\Rogat\HitSensor\fw\usart.h	46;"	p	line:46	signature:(void)
+getche	C:\project\2014\Rogat\HitSensor\fw\usart.c	24;"	f	line:24	signature:(void)
+getche	C:\project\2014\Rogat\HitSensor\fw\usart.h	47;"	p	line:47	signature:(void)
+i	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	75;"	l	line:75
+inBuf	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	24;"	v	line:24
+init	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	47;"	f	line:47
+init_comms::	C:\project\2014\Rogat\HitSensor\fw\usart.h	40;"	d	line:40
+isr	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	35;"	f	line:35	signature:(void)
+j	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	75;"	l	line:75
+main	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	73;"	f	line:73	signature:(void)
+mode	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	31;"	v	line:31
+msgReady	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	27;"	v	line:27
+putch	C:\project\2014\Rogat\HitSensor\fw\usart.c	7;"	f	line:7	signature:(unsigned char byte)
+putch	C:\project\2014\Rogat\HitSensor\fw\usart.h	45;"	p	line:45	signature:(unsigned char)
+threshold	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	28;"	v	line:28
+txBuf	C:\project\2014\Rogat\HitSensor\fw\HitSensor.c	25;"	v	line:25
